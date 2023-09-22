@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557700274135",
+    "project_id": "livetv-e6c09",
+    "storage_bucket": "livetv-e6c09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557700274135:android:458898b9251cde116d5d92",
+        "android_client_info": {
+          "package_name": "com.gdevs.firetv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557700274135-vkgr1db2bfvdhifp7i18nmb7le30vqp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8PyPL2sdVsZx4tj9QpCIf-65dinKrUWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557700274135-vkgr1db2bfvdhifp7i18nmb7le30vqp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
